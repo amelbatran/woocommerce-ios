@@ -20,3 +20,6 @@ team_id "299112"
 skip_binary_upload true
 overwrite_screenshots true
 phased_release true
+precheck_include_in_app_purchases false
+
+api_key_path "../.configure-files/app_store_connect_fastlane_api_key.json"
